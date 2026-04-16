@@ -32,4 +32,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
+---
+
+## 📂 Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Sales, Customer & Product Analysis](https://github.com/sahadat-ullah-mollah/Sales_Customer_and_Product_Analysis_Using_SQL) | SQL, PostgreSQL, SQL Server | End-to-end retail analytics covering sales trends, cumulative growth, customer segmentation, and KPI-driven reporting across six advanced techniques |
+| [Profit Performance Analysis](https://github.com/sahadat-ullah-mollah/Profit_Performance_Analysis_in_Excel) | Excel | 4-year transactional data analysis with dynamic dashboards across time, product, customer, geography, and demographics — built for executive-level decision making |
+| [Sales Performance Dashboard](https://github.com/sahadat-ullah-mollah/Sales_Performance_Dashboard-Power_BI) | Power BI, DAX, Power Query | Full analytics pipeline from raw data to boardroom-ready visuals — treemap, waterfall, and combo charts with dynamic filtering and virtual table logic |
 
