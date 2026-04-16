@@ -1,16 +1,35 @@
-## Hi there 👋
+<img width="1584" height="396" alt="Linkedin Banner 2 0" src="https://github.com/user-attachments/assets/4590bd73-8952-423b-80b3-cbbbc5a2615c" />
 
-<!--
-**sahadat-ullah-mollah/sahadat-ullah-mollah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Sahadat Ullah Mollah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Analyst | Finance Undergraduate | Turning Numbers into Decisions**
+
+📩 **sahadatshihab412@gmail.com** — Open to collaborations, freelance projects, or just a good conversation about data.
+
+---
+- 👯 **Looking to collaborate on:** Data analytics or business intelligence projects — dashboards, reporting pipelines, or exploratory analysis
+- 💬 **Ask me about:** SQL, Power BI, Excel, data storytelling, or breaking into analytics from a finance background
+- 📫 **How to reach me:** sahadatshihab412@gmail.com
+- ⚡ **Fun fact:** I come from a finance background — which means I don't just build dashboards, I understand what the numbers actually mean
+
+---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shihabsince99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahadat.shihab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahadat-ullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahadatshihab412@gmail.com) 
+
+# 💻 Tech Stack:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+
