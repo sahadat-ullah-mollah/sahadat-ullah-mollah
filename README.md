@@ -1,6 +1,4 @@
-<img width="1584" height="396" alt="Linkedin Banner 2 0" src="https://github.com/user-attachments/assets/4590bd73-8952-423b-80b3-cbbbc5a2615c" />
 
----
 
 # 👋 Hi, I'm Sahadat Ullah Mollah
 
